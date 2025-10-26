@@ -1,5 +1,11 @@
 # ETL_Airbnb — Proyecto de Extracción, Transformación y Carga (ETL)
 
+# Integrantes
+1. Santiago Varela Jiménez 
+2. Santiago Álzate Munera
+3. Franyelica García Fernández
+
+
 ## Descripción del proyecto y objetivo
 Este proyecto realiza la extracción desde una instancia local de MongoDB de colecciones relacionadas con Airbnb (Ciudad de México), ejecuta pasos de transformación y limpieza, y prepara datos para su posterior carga en un Data Warehouse. El objetivo es limpiar y normalizar los datos (precios, fechas, campos anidados) y generar artefactos listos para análisis y modelado.
 

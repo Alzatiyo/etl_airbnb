@@ -1,0 +1,6 @@
+2025-10-26T18:08:46.291810 | Inicio transformación de LISTINGS
+2025-10-26T18:08:46.303880 | LISTINGS transformado: 10 registros finales
+2025-10-26T18:08:46.348561 | Inicio transformación de REVIEWS
+2025-10-26T18:08:46.352887 | REVIEWS transformado: 10 registros finales
+2025-10-26T18:08:46.364091 | Inicio transformación de CALENDAR
+2025-10-26T18:08:46.368844 | CALENDAR transformado: 10 registros finales

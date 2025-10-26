@@ -1,0 +1,8 @@
+2025-10-26T18:01:48.278298 | Colección: Conexion | Cantidad: 0 | Estado: Éxito
+2025-10-26T18:01:48.349229 | Colección: MX_listings | Cantidad: 459 | Estado: Éxito
+2025-10-26T18:01:51.795521 | Colección: MX_reviews | Cantidad: 210359 | Estado: Éxito
+2025-10-26T18:02:02.386368 | Colección: MX_calendar | Cantidad: 869428 | Estado: Éxito
+2025-10-26T18:08:46.273205 | Colección: Conexion | Cantidad: 0 | Estado: Éxito
+2025-10-26T18:08:46.284295 | Colección: MX_listings | Cantidad: 10 | Estado: Éxito
+2025-10-26T18:08:46.287014 | Colección: MX_reviews | Cantidad: 10 | Estado: Éxito
+2025-10-26T18:08:46.289403 | Colección: MX_calendar | Cantidad: 10 | Estado: Éxito
